@@ -1,0 +1,1 @@
+The main goal for this project is to perform extensive exploratory data analysis on the given dataset, which is the Zomato Dataset, and to build a model that can help various restaurants predict their respective ratings based on some features.
