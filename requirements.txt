@@ -12,4 +12,5 @@ types-PyYAML
 Flask
 Flask-Cors
 seaborn
+pandas_profiling
 -e .
