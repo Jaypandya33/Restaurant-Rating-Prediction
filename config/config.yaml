@@ -3,6 +3,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/Jaypandya33/Restaurant-Rating-Prediction/raw/main/research/EDA.csv
+  source_URL: https://github.com/Jaypandya33/Restaurant-Rating-Prediction/raw/main/research/EDA.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion

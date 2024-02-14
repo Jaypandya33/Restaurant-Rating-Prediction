@@ -1,0 +1,13 @@
+COLUMNS:
+  online_order: object
+  book_table: object
+  rate: float64
+  votes: int64  
+  location: object 
+  rest_type: object 
+  cuisines: object 
+  approx_cost(for two people): float64
+  listed_in(type): object 
+
+TARGET_COLUMN:
+  name: rate
