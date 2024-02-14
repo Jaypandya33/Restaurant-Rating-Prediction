@@ -29,4 +29,6 @@ class ConfigurationManager:
             unzip_dir=config.unzip_dir 
         )
 
-        return data_ingestion_config
+        return  
+                              
+    
