@@ -7,7 +7,7 @@ COLUMNS:
   rest_type: object 
   cuisines: object 
   approx_cost(for two people): float64
-  listed_in(type): object 
+  listed_in(type): object
 
 TARGET_COLUMN:
   name: rate
